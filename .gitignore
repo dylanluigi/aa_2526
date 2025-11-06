@@ -1,3 +1,4 @@
 data/
 */__pycache__/
 08_Detecció/best_model.pth
+*.pth
